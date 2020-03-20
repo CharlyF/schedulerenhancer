@@ -1,0 +1,7 @@
+apiVersion: datadoghq.com/v1alpha1
+kind: SchedulerEnhancer
+metadata:
+  name: example-schedulerenhancer
+spec:
+  # Add fields here
+  size: 3
